@@ -1,0 +1,796 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"build",
+				"buildRadiator"
+			],
+			[
+				"pro",
+				"this.process"
+			],
+			[
+				"p",
+				"this.path"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"re",
+				"path.resolve"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"list-",
+				"list-style-image"
+			],
+			[
+				"bui",
+				"buildRadiator"
+			],
+			[
+				"bu",
+				"buildRadiator"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"l",
+				"list-style-position"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"requi",
+				"require"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"switch",
+				"switchToDecrease"
+			],
+			[
+				"swit",
+				"switchToIncrease"
+			],
+			[
+				"sc",
+				"script	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 961,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "routes/data.js",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"repl node",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl no",
+				"SublimeREPL: Node"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pi",
+				"Color picker"
+			],
+			[
+				"pick",
+				"Color picker"
+			],
+			[
+				"picker",
+				"Color picker"
+			],
+			[
+				"folder",
+				"SublimeREPL: SBT for opened folder"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"def",
+				"TernJS: Jump to definition"
+			],
+			[
+				"tern",
+				"TernJS: Jump to definition"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"cofee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jqu",
+				"Snippet: Google AJAX Libraries: jQuery"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htmlboi",
+				"Snippet: htmlboiler"
+			],
+			[
+				"htmlboiler",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: htmlboiler"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"quit",
+			"exit",
+			"close",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/John/nodestuff/routes/index.js",
+		"/C/Users/John/nodestuff/routes/data.js",
+		"/C/Users/John/nodestuff/public/stylesheets/style.less",
+		"/C/Users/John/nodestuff/public/javascripts/timer.js",
+		"/C/Users/John/nodestuff/lib/buildRadiator.js",
+		"/C/Users/John/nodestuff/views/buildRadiator.jade",
+		"/C/Users/John/nodestuff/views/layout.jade",
+		"/C/Users/John/nodestuff/app.js",
+		"/C/Users/John/nodestuff/node_modules/express/node_modules/connect/lib/public/style.css",
+		"/C/Users/John/nodestuff/public/stylesheets/style.css",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/John/nodestuff/node_modules/less-middleware/node_modules/less/test/less/errors/import-no-semi.less",
+		"/C/Users/John/nodestuff/nodestuff.sublime-project",
+		"/C/Users/John/nodestuff/build.xml",
+		"/C/Users/John/nodestuff/routes/buildRadiator.js",
+		"/C/Users/John/nodestuff/routes/lols.js",
+		"/C/Users/John/nodestuff/views/index.jade",
+		"/C/Users/John/nodestuff/views/lols.jade",
+		"/C/Users/John/nodestuff/routes/user.js",
+		"/C/Users/John/nodestuff/routes/coffeelols.coffee",
+		"/C/Program Files (x86)/Steam/steamapps/common/Silent Hunter 5/data/Campaigns/CampaignProjects/Total_Germany/Campaign.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Silent Hunter 5/MODS/Realistic ammo amount for AA and deck guns/data/Objects/Guns/20mm_C30.sim",
+		"/C/Program Files (x86)/Steam/steamapps/common/Silent Hunter 5/data/Cfg/Basic.cfg",
+		"/C/Users/John/nodestuff/sample.xml",
+		"/C/Users/John/nodestuff/xmlparsing.js",
+		"/C/Program Files (x86)/Steam/steamapps/common/Silent Hunter 3/SH3/data/cfg/main.cfg",
+		"/C/Users/John/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/John/myfirstexpressapp/public/stylesheets/style.css",
+		"/C/Users/John/myfirstexpressapp/views/index.jade",
+		"/C/Users/John/myfirstexpressapp/views/foo.jade",
+		"/C/Users/John/myfirstexpressapp/routes/user.js",
+		"/C/Users/John/myfirstexpressapp/routes/index.js",
+		"/C/Users/John/myfirstexpressapp/routes/foo.js",
+		"/C/Users/John/myfirstexpressapp/app.js",
+		"/C/Users/John/CustomBindings/Service/ServiceWithMultipleEndpoints.cs",
+		"/C/Users/John/Desktop/rotate.html",
+		"/C/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/Jestar/persistent.sfs",
+		"/C/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/Parts/MechJeb2_AR202/part.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/Jenk/persistent.sfs",
+		"/C/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/Plugins/PluginData/MechJeb2/mechjeb_settings_type_Kethane Scanner (M).cfg",
+		"/C/Program Files (x86)/Launch Manager/MMKEYBD.CFG",
+		"/C/Program Files (x86)/Steam/steamapps/common/Hitman 2 Silent Assassin/Hitman2.ini",
+		"/C/Program Files (x86)/Steam/steamapps/common/Half-Life/cstrike/REBELLIONSDM.dem",
+		"/C/Program Files (x86)/Steam/steamapps/common/Kerbal Space Program/saves/Jenk/Ships/VAB/Mun Lander 1.craft"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Silent Hunter 5,*.sim",
+			"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Silent Hunter 5"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"duration",
+			"gradient",
+			"webkit",
+			"interval",
+			"type",
+			"extendBuild",
+			"buildRadiator",
+			"\"",
+			"foo",
+			"extension",
+			"obj",
+			"original",
+			"obj",
+			"Obj",
+			"obj",
+			"\n	<build name=\"Build one\">\n		<job name=\"Job one\" status=\"pass\" />\n		<job name=\"Job two\" status=\"pass\" />\n		<job name=\"Job three\" status=\"fail\" />\n		<job name=\"Job four\" status=\"pass\" />\n	</build>",
+			" />",
+			"user",
+			"AP",
+			"AP\n	<foofoo>\n		<somestuff attrib=\"value1\"/>\n		<somestuff attrib=\"value2\"/>\n		<somestuff attrib=\"value3\"/>\n		<somestuff attrib=\"value4\"/>\n		<somestuff attrib=\"value5\"/>\n		<somestuff attrib=\"value6\"/>\n		<somestuff attrib=\"value7\"/>\n	</foofoo>",
+			"\n	<foofoo>\n		<somestuff attrib=\"value1\"/>\n		<somestuff attrib=\"value2\"/>\n		<somestuff attrib=\"value3\"/>\n		<somestuff attrib=\"value4\"/>\n		<somestuff attrib=\"value5\"/>\n		<somestuff attrib=\"value6\"/>\n		<somestuff attrib=\"value7\"/>\n	</foofoo>",
+			"\"/>\n",
+			"name",
+			"xml2js",
+			"open",
+			"duna resc",
+			"duna",
+			"jestar",
+			"fuel",
+			"rTrf = fuelTank4-2",
+			"fuelTank4-2",
+			"LiquidFuel",
+			"Mental",
+			"Lander",
+			"ElectricCharge",
+			"part",
+			"fuelTank.long",
+			"RESOURCE",
+			"mono",
+			"BROKEN",
+			"1551695044",
+			"Space Station 4",
+			"Station"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"EXTENDED"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/data.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "nodestuff.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data.j",
+				"routes\\data.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"style",
+				"node_modules\\express\\node_modules\\connect\\lib\\public\\style.css"
+			],
+			[
+				"styl",
+				"public\\stylesheets\\style.less"
+			],
+			[
+				"lay",
+				"views\\layout.jade"
+			],
+			[
+				"br.jad",
+				"views\\buildRadiator.jade"
+			],
+			[
+				"br.js",
+				"lib\\buildRadiator.js"
+			],
+			[
+				"index",
+				"routes\\index.js"
+			],
+			[
+				"sty",
+				"public\\stylesheets\\style.less"
+			],
+			[
+				"inde",
+				"routes\\index.js"
+			],
+			[
+				"in",
+				"node_modules\\less-middleware\\node_modules\\less\\test\\less\\errors\\import-no-semi.less"
+			],
+			[
+				"bui",
+				"lib\\buildRadiator.js"
+			],
+			[
+				"brja",
+				"views\\buildRadiator.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

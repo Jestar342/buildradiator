@@ -1,0 +1,21 @@
+extends layout
+
+block head
+	script(src='http://code.jquery.com/jquery-2.0.3.min.js',type='text/javascript')
+	script(src='/javascripts/timer.js',type='text/javascript')
+	script(src='/javascripts/buildFormat.js',type='text/javascript')
+	script(src='/javascripts/data.js',type='text/javascript')
+
+block content
+	h1 Build radiatororororororor
+	p Page will reload in 
+		span(id='countdown') 60
+		|  seconds
+	div(id='builds')
+		ul
+			- for (var i = 0; i < builds.length; i++)
+				li(class=['build', builds[i].status])= builds[i].name
+					- if (builds[i].failed)
+						ul
+							- for(var j = 0; j < builds[i].job.length; j++)
+								li(class=[builds[i].job[j].status,'job'])=builds[i].job[j].name

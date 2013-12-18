@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"public/stylesheets/style.css"
+			],
+			"follow_symlinks": true,
+			"path": "C:\\Users\\John\\nodestuff"
+		}
+	]
+}

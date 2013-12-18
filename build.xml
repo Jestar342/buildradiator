@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<builds>
+	<build name="Build one">
+		<job name="Job one" status="pass" />
+		<job name="Job two" status="pass" />
+		<job name="Job three" status="fail" />
+		<job name="Job four" status="pass" />
+	</build>
+	<build name="Build two">
+		<job name="Job one" status="pass" />
+		<job name="Job two" status="pass" />
+		<job name="Job three" status="pass" />
+		<job name="Job four" status="pass" />
+	</build>
+</builds>
