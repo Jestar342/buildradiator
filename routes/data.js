@@ -14,6 +14,10 @@ exports.readData = function(callback) {
 
 exports.getData = function(request, response) {
 	exports.readData(function(data) {
+		
+		if (request.params.status)
+			data = _(data).where({ status: request.params.status });
+
 		response.send(data);
 	});
 };

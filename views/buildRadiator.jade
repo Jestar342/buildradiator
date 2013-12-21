@@ -4,13 +4,16 @@ block head
 	script(src='http://code.jquery.com/jquery-2.0.3.min.js',type='text/javascript')
 	script(src='/javascripts/timer.js',type='text/javascript')
 	script(src='/javascripts/buildFormat.js',type='text/javascript')
-	script(src='/javascripts/data.js',type='text/javascript')
+	script(src='/javascripts/buildRadiator.js',type='text/javascript')
 
 block content
 	h1 Build radiatororororororor
 	p Page will reload in 
 		span(id='countdown') 60
 		|  seconds
+	form(action='.', method='POST')
+		label(for='showAllBuilds') Show all builds?
+		input(id='showAllBuilds',name='showAllBuilds',type='checkbox',checked='checked')
 	div(id='builds')
 		ul
 			- for (var i = 0; i < builds.length; i++)

@@ -35,10 +35,10 @@ var Timer = function(start, step, tickrate) {
 	};
 
 	self.__tick = function() {
+		self.current = self.current - self.step;
+
 		for (var i = 0; i < self.__tickEvents.length; i++)
 			self.__tickEvents[i](self.current);
-
-		self.current = self.current - self.step;
 
 		if (self.current < self.step)
 			self.__countdownDone();
