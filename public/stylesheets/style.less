@@ -5,6 +5,16 @@ body {
 	background-color: #6BB1FE;
 }
 
+form { 
+	float: right;
+}
+
+p {
+	margin: 0;
+	padding: 0; 
+	float: left;
+}
+
 a {
 	color: #00B7FF;
 }
@@ -16,26 +26,7 @@ h1 {
 ul {
 	list-style: none;
 	padding: 0;
-}
-
-.error {
-	color: #ff0000;
-	text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
-}
-
-.loading {
-	min-height: 200px;
-	background-image: url('/images/spinner.png');
-	background-repeat: no-repeat;
-	background-position: center;
-	.animation(rotate-spinner, 2s, linear, infinite);
-}
-
-.animation(@name: dont-blink, @duration: 0, @timing-function: none, @iteration-count: 0) {
-	-webkit-animation-name: @name; 
-	-webkit-animation-duration: @duration;
-	-webkit-animation-timing-function: @timing-function;
-	-webkit-animation-iteration-count: @iteration-count;
+	margin: 0;
 }
 
 li {
@@ -69,6 +60,37 @@ li {
 	}
 }
 
+.all-clear {
+	background-image: url('/images/happy.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 500px;
+}
+
+.error {
+	color: #ff0000;
+	text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+}
+
+.loading {
+	min-height: 200px;
+	background-image: url('/images/spinner.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	.animation(rotate-spinner, 2s, linear, infinite);
+}
+
+.clear {
+	clear: both;
+}
+
+.animation(@name: dont-blink, @duration: 0, @timing-function: none, @iteration-count: 0) {
+	-webkit-animation-name: @name; 
+	-webkit-animation-duration: @duration;
+	-webkit-animation-timing-function: @timing-function;
+	-webkit-animation-iteration-count: @iteration-count;
+}
+
 @-webkit-keyframes rotate-spinner {
 	from {-webkit-transform: rotate(0deg);}
 	to {-webkit-transform: rotate(360deg);}
@@ -78,6 +100,7 @@ li {
 	0% { 
 		opacity: 1;
 		margin-left: 0;
+		margin-top: 10px;
 	}
 	25% {
 		opacity: 0.75;
@@ -86,6 +109,7 @@ li {
 	50% { 
 		opacity: 1; 
 		margin-left: 0;
+		margin-top: 0px;
 	}
 	75% {
 		opacity: 0.75;
@@ -94,5 +118,6 @@ li {
 	100% { 
 		opacity: 1; 
 		margin-left: 0;
+		margin-top: 10px;
 	}
 }

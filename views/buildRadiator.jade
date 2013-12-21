@@ -14,6 +14,7 @@ block content
 	form(action='.', method='POST')
 		label(for='showAllBuilds') Show all builds?
 		input(id='showAllBuilds',name='showAllBuilds',type='checkbox',checked='checked')
+	br(class='clear')
 	div(id='builds')
 		ul
 			- for (var i = 0; i < builds.length; i++)
